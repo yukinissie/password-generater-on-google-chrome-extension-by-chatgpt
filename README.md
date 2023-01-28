@@ -1,4 +1,4 @@
-# JavaScript Password Generater
+# password-generater-on-google-chrome-extension-by-chatgpt
 
 ChatGPT駆動開発で作られました．
 
