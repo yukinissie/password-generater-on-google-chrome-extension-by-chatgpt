@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Password Generator",
+  "description": "A password generator extension for Chrome",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Password Generator"
+  },
+  "permissions": ["activeTab", "storage"]
+}
