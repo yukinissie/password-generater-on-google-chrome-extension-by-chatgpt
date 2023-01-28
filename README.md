@@ -6,7 +6,12 @@ ChatGPT駆動開発で作られました．
 
 初めてGoogle Chrome拡張機能を作りました．
 
+## スクリーンショット
+
 <img width="163" alt="スクリーンショット 2023-01-28 113216" src="https://user-images.githubusercontent.com/38881185/215239178-d22077d1-a22b-427d-b089-820506a76d13.png">
+
+## やりとりのスクショ（抜粋）
+
 <img width="395" alt="スクリーンショット 2023-01-28 115207" src="https://user-images.githubusercontent.com/38881185/215239180-05d68f06-1bdc-4bc4-b6bb-e5d8bfab0447.png">
 <img width="408" alt="スクリーンショット 2023-01-28 115229" src="https://user-images.githubusercontent.com/38881185/215239181-62cd3c63-7717-4b31-924d-779ff68cee43.png">
 <img width="404" alt="スクリーンショット 2023-01-28 115251" src="https://user-images.githubusercontent.com/38881185/215239183-2befc5fb-192c-4c71-8eb9-717a1b351990.png">
